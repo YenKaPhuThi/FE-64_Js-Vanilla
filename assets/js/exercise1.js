@@ -1,6 +1,9 @@
 /* Bengin Requirement
   1. In một bảng số từ 1-100 thỏa mãn điều kiện: (gợi ý dùng 2 vòng for lồng
     nhau, để ý chỗ bước nhảy)
+    • Bảng số gồm 10 hàng và 10 cột
+    • Các giá trị trong hàng là liên tiếp nhau
+    • Các giá trị trong cột hơn kém nhau 10
 End Requirement */
 
 // Get element by id
